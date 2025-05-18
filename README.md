@@ -1,4 +1,4 @@
-<b>BeeCycle Sales Web Dashboard with Tableau</b>
+<h2><b>BeeCycle Sales Web Dashboard with Tableau</b></h2>
 
 <b>Objective:</b>
 1. menghubungkan Google Sheets ke Tableau
